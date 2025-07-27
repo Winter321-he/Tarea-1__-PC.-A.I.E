@@ -1,6 +1,3 @@
-
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -16,4 +13,5 @@ plt.axhline(0, color='black', linewidth=1)  # línea horizontal en y=0
 plt.axvline(0, color='black', linewidth=1)  # línea vertical en x=0
 plt.legend(['y = sin(x)'])
 plt.show()
+
 
